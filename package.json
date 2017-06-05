@@ -1,6 +1,7 @@
 {
   "name": "flesch-kincaid",
   "version": "1.0.0",
+  "typings": "flesch-kincaid.d.ts",
   "description": "Flesch-Kincaid readability score and grade level calculation",
   "main": "flesch-kinkaid.js",
   "repository": {
